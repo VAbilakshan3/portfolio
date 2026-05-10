@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+::selection {
+  background: #d9ef63;
+  color: #10201c;
+}
+
+.map-grid {
+  background-image:
+    linear-gradient(rgba(16, 32, 28, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(16, 32, 28, 0.05) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(0, 166, 166, 0.08), transparent 34%, rgba(217, 239, 99, 0.08));
+  background-size: 44px 44px, 44px 44px, 100% 100%;
+}
+
+.section-shell {
+  @apply mx-auto max-w-7xl px-5 py-12 sm:py-14 lg:px-8;
+}
+
+.section-eyebrow {
+  @apply text-xs font-black uppercase tracking-[0.22em] text-aqua dark:text-limewash;
+}
+
+.nav-link {
+  @apply rounded-lg px-3 py-2 text-sm font-bold text-ink/60 transition hover:bg-ink/5 hover:text-ink dark:text-white/60 dark:hover:bg-white/10 dark:hover:text-white;
+}
+
+.icon-button {
+  @apply grid size-10 place-items-center rounded-lg border border-ink/10 bg-white/70 text-ink transition hover:bg-ink hover:text-white dark:border-white/10 dark:bg-white/5 dark:text-white dark:hover:bg-limewash dark:hover:text-ink;
+}
+
+.primary-button {
+  @apply inline-flex items-center gap-2 rounded-lg bg-ink px-5 py-3 text-sm font-black text-white shadow-glow transition hover:-translate-y-0.5 hover:bg-aqua dark:bg-limewash dark:text-ink dark:hover:bg-white;
+}
+
+.secondary-button {
+  @apply inline-flex items-center gap-2 rounded-lg border border-ink/10 bg-white/75 px-5 py-3 text-sm font-black text-ink transition hover:-translate-y-0.5 hover:border-aqua hover:text-aqua dark:border-white/10 dark:bg-white/5 dark:text-white dark:hover:border-limewash dark:hover:text-limewash;
+}
+
+.contact-link {
+  @apply flex items-center gap-3 rounded-lg border border-white/10 bg-white/10 px-4 py-3 text-sm font-bold text-white transition hover:bg-white/20 dark:border-ink/10 dark:bg-ink/5 dark:text-ink dark:hover:bg-ink/10;
+}
+
+.footer-link {
+  @apply font-bold transition hover:text-aqua dark:hover:text-limewash;
+}
+
+.premium-card {
+  @apply rounded-xl border border-ink/10 bg-white/80 shadow-sm backdrop-blur transition duration-300 hover:border-aqua/40 hover:shadow-glow dark:border-white/10 dark:bg-white/5 dark:hover:border-limewash/50;
+}
+
+.sticky-cta-link {
+  @apply inline-flex items-center gap-2 rounded-lg px-3 py-2 text-xs font-black text-ink transition hover:bg-ink hover:text-white dark:text-white dark:hover:bg-limewash dark:hover:text-ink;
+}
+
+.filter-button {
+  @apply rounded-lg border border-ink/10 bg-white/70 px-3 py-2 text-xs font-black uppercase tracking-[0.12em] text-ink/60 transition hover:border-aqua hover:text-aqua dark:border-white/10 dark:bg-white/5 dark:text-white/60 dark:hover:border-limewash dark:hover:text-limewash;
+}
+
+.filter-button-active {
+  @apply border-ink bg-ink text-white dark:border-limewash dark:bg-limewash dark:text-ink;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid #00a6a6;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .js [data-reveal] {
+    opacity: 0;
+    transform: translateY(18px);
+    transition:
+      opacity 620ms ease,
+      transform 620ms cubic-bezier(0.22, 1, 0.36, 1),
+      border-color 300ms ease,
+      box-shadow 300ms ease,
+      background-color 300ms ease,
+      color 300ms ease;
+    transition-delay: var(--reveal-delay, 0ms);
+    will-change: opacity, transform;
+  }
+
+  .js [data-reveal].is-visible,
+  .js [data-reveal].reveal-fallback {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

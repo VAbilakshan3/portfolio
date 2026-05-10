@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Abilakshan Vadivel is a Surveyor and GIS Analyst specializing in GIS, LIS, Web GIS, spatial databases, GNSS workflows, remote sensing, and planning support."
+    />
+    <meta name="theme-color" content="#10201c" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Abilakshan Vadivel | Surveyor & GIS Analyst" />
+    <meta
+      property="og:description"
+      content="Recruiter-ready GIS and Surveying portfolio focused on LIS, Web GIS, PostGIS, GeoServer, GNSS field support, and spatial analysis."
+    />
+    <meta property="og:image" content="%BASE_URL%images/profile-photo.png" />
+    <meta property="og:url" content="http://localhost:5173/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/png" href="%BASE_URL%images/profile-photo.png" />
+    <script>
+      try {
+        const savedTheme = localStorage.getItem("portfolio-theme");
+        const useDark = savedTheme ? savedTheme === "dark" : true;
+        document.documentElement.classList.toggle("dark", useDark);
+      } catch (error) {
+        document.documentElement.classList.add("dark");
+      }
+    </script>
+    <title>Abilakshan Vadivel | Surveyor & GIS Analyst Portfolio</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

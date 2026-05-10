@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.codex-tools/
+.env
+.env.local
+npm-debug.log*
+Certificates/*.mp4
