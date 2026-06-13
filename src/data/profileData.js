@@ -156,7 +156,7 @@ export const profile = {
       degree: "B.Sc. (Hons) in Surveying Sciences",
       specialization: "Specializing in GIS",
       institution: "Sabaragamuwa University of Sri Lanka",
-      details: "Completed academic requirements | GPA: 3.4 / 4.00 (up to 3rd Year, 2nd Semester) | Faculty of Geomatics"
+      details: "Completed academic requirements | GPA: 3.5 / 4.00  | Faculty of Geomatics"
     },
     {
       degree: "Full Stack Web Development",
