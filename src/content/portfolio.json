@@ -1,0 +1,1193 @@
+{
+  "profile": {
+    "name": "Abilakshan Vadivel",
+    "headline": "Surveyor & GIS Analyst",
+    "intro": "I connect field observations with geospatial intelligence — from survey control and UAV mapping to land information systems and Web GIS.",
+    "location": "Based in Maldives · From Sri Lanka",
+    "image": "images/profile-photo.webp"
+  },
+  "about": "I am a Surveyor and GIS Analyst with a B.Sc. (Hons) in Surveying Sciences, specializing in GIS. My work brings together land, engineering, hydrographic and coastal surveying, UAV photogrammetry, and spatial analysis. I turn field observations and geospatial data into maps, plans, elevation products and interactive tools for engineering and planning.",
+  "contact": {
+    "email": "abilakshan3@gmail.com",
+    "phone": "+94 77 193 2546",
+    "linkedin": "https://www.linkedin.com/in/abilakshan-vadivel/",
+    "github": "https://github.com/VAbilakshan3"
+  },
+  "cv": {
+    "path": "cv/Abilakshan Vadivel.pdf",
+    "filename": "Abilakshan Vadivel.pdf"
+  },
+  "experience": [
+    {
+      "role": "Surveyor",
+      "company": "Riyan Private Limited",
+      "location": "Maldives",
+      "period": "May 2026 - Present",
+      "status": "Current role",
+      "summary": "Land, engineering, hydrographic, coastal and UAV surveying, supported by GIS analysis and technical coordination.",
+      "compactBullets": [
+        "Conduct land, engineering, topographic, boundary, hydrographic, coastal and construction-related surveys.",
+        "Establish and verify survey control and GCPs; carry out GNSS, Total Station and levelling observations.",
+        "Plan and execute DJI Mavic 3 Enterprise UAV surveys with base-station setup and GCP control. Process and check orthomosaics, point clouds and elevation products in Pix4D Mapper.",
+        "Prepare spatial data, maps and web GIS products in ArcGIS Pro and ArcGIS Online; coordinate survey deliverables with project stakeholders."
+      ],
+      "tools": [
+        "GNSS",
+        "Total Station",
+        "DJI Mavic 3 Enterprise",
+        "Pix4D Mapper",
+        "ArcGIS Pro",
+        "ArcGIS Online"
+      ]
+    },
+    {
+      "role": "Planning Intern (Surveyor & GIS Analyst)",
+      "company": "Riyan Private Limited",
+      "location": "Maldives",
+      "period": "Dec 2025 - March 2026",
+      "status": "Past experience",
+      "summary": "Worked across LIS development, Web GIS publishing, land-use mapping, GNSS field support, land demarcation, coastal sediment analysis, drone-output review, and survey-related planning deliverables.",
+      "compactBullets": [
+        "Built and organized LIS layers from CAD, shapefile, imagery, and attribute data.",
+        "Published Web Maps, Web Scenes, pop-ups, symbology, and Experience Builder outputs in ArcGIS Online.",
+        "Supported PostGIS and GeoServer workflows for open-source LIS delivery.",
+        "Assisted GNSS field setup, land demarcation, land-use mapping, heat maps, and survey documentation."
+      ],
+      "workstreams": [
+        {
+          "title": "Land Information System (LIS) using Esri Products",
+          "bullets": [
+            "Prepared and organized project geospatial data, including shapefiles, CAD-based inputs, and attribute information, for LIS development and land-use mapping workflows.",
+            "Converted CAD files into GIS-ready layers and created and edited point, polyline, and polygon features under required land-use categories in ArcGIS Pro.",
+            "Developed web-based LIS views by publishing datasets through ArcGIS Online and configuring Web Maps, Web Scenes, and Experience Builder components for interactive access.",
+            "Supported layer organization, symbology, pop-up configuration, and 3D map preparation to present land-use and planning information more effectively."
+          ]
+        },
+        {
+          "title": "Open-Source LIS using QGIS, PostGIS, and GeoServer",
+          "bullets": [
+            "Maintained consistent data structure, layer organization, and project outputs while transitioning LIS workflows from Esri platforms to open-source tools.",
+            "Organized project files and QGIS layers, connected QGIS with PostgreSQL through pgAdmin, enabled PostGIS, and imported prepared layers into the spatial database.",
+            "Structured portal-ready datasets and supported GeoServer publication workflows by preparing layers and creating basic WMS and WFS services for required data.",
+            "Assisted Web GIS portal development using Leaflet, HTML, CSS, and JavaScript, including layer controls, legend visibility, and measurement tool integration."
+          ]
+        },
+        {
+          "title": "Land Demarcation & GNSS Field Support",
+          "bullets": [
+            "Reviewed approved plans, carried out site reconnaissance, and checked demarcation areas before field implementation for residential, tourism, and agriculture zones.",
+            "Assisted GNSS-based field setup, observations, boundary reference checking, and block demarcation activities during on-site land demarcation work.",
+            "Maintained field notes, daily progress records, and supporting documentation to ensure smooth continuation of field tasks and office reporting.",
+            "Supported field completion reporting using reference photographs and drone imagery to communicate site status and completed works clearly."
+          ]
+        },
+        {
+          "title": "Coastal / Sediment Analysis",
+          "bullets": [
+            "Supported coastal sediment laboratory work for beach nourishment and coastal protection studies by identifying, labeling, and organizing sand samples.",
+            "Carried out sample washing, drying, weighing, and initial preparation tasks while maintaining sample tracking records and laboratory documentation.",
+            "Assisted sieve analysis using multiple sieve sizes and recorded retained material values for grain-size distribution assessment.",
+            "Contributed to documentation used to evaluate suitable sand material for coastal protection and construction-related applications."
+          ]
+        },
+        {
+          "title": "GIS Outputs, Heat Maps, Harbor Digitization & Drone Exposure",
+          "bullets": [
+            "Produced and revised Resilient Schools heat maps by rechecking mapped point alignment, correcting layout issues, and updating outputs based on in-charge feedback.",
+            "Prepared school sketches, open area versus built-up support layers, and time-based heat map outputs for multiple schools and reporting needs.",
+            "Supported harbor digitization and GIS feature editing by creating, updating, and structuring spatial layers for planning and presentation purposes.",
+            "Gained exposure to Pix4D Mapper workflows and reviewed orthomosaic, point cloud, DTM, and DSM outputs to understand drone image processing deliverables."
+          ]
+        }
+      ],
+      "tools": [
+        "ArcGIS Pro",
+        "ArcGIS Online",
+        "QGIS",
+        "PostGIS",
+        "GeoServer",
+        "GNSS"
+      ]
+    },
+    {
+      "role": "Junior Surveyor",
+      "company": "North Axis Surveys (Pvt) Ltd",
+      "location": "Sri Lanka",
+      "period": "Oct 2022 – Dec 2025",
+      "status": "Previous role",
+      "summary": "Land, boundary, topographic and control surveying with survey drawing and reporting responsibilities.",
+      "compactBullets": [
+        "Conducted traversing, levelling, control establishment, land demarcation and construction layout.",
+        "Operated Total Stations, Sokkia Automatic Levels and GNSS equipment; prepared drawings and reports using AutoCAD and GIS software."
+      ],
+      "tools": [
+        "Total Station",
+        "Sokkia Automatic Level",
+        "GNSS",
+        "AutoCAD"
+      ]
+    },
+    {
+      "role": "GeoAI for Disaster Resilience - Undergraduate Fellowship",
+      "company": "ADRIMP",
+      "location": "Sri Lanka",
+      "period": "Feb 2026 - May 2026",
+      "status": "Fellowship",
+      "summary": "Applied GeoAI, spatial analytics, and risk-modeling concepts to support disaster resilience and risk-reduction planning.",
+      "compactBullets": [
+        "Applied GeoAI, spatial analytics, and risk-modeling concepts for disaster resilience.",
+        "Worked with geospatial datasets, hazard mapping approaches, and emergency preparedness frameworks.",
+        "Strengthened resilience-oriented spatial interpretation and risk-reduction planning knowledge."
+      ]
+    },
+    {
+      "role": "Management Assistant (IT) - Internship",
+      "company": "Institute of Medical Sciences",
+      "location": "Manipay",
+      "period": "Mar 2021 - Aug 2021",
+      "status": "Past experience",
+      "summary": "Provided IT support and assisted with database-related tasks to help maintain smooth organizational operations.",
+      "compactBullets": [
+        "Provided IT support for organizational operations.",
+        "Assisted database-related tasks and administrative technology workflows."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. (Hons) in Surveying Sciences",
+      "specialization": "Geographic Information System · Faculty of Geomatics",
+      "institution": "Sabaragamuwa University of Sri Lanka",
+      "details": "Second Class Upper Division · GPA 3.51 / 4.00 · Degree effective 13 March 2026"
+    },
+    {
+      "degree": "Full Stack Web Development",
+      "specialization": "ReactJS, NodeJS, and MongoDB fundamentals",
+      "institution": "Uki Coding School - Online Cohort",
+      "details": "Jun 2020 - Nov 2020"
+    },
+    {
+      "degree": "G.C.E. Advanced Level - Physical Science",
+      "specialization": "Results: 2B, 1C",
+      "institution": "St. John's College, Jaffna",
+      "details": "2019"
+    },
+    {
+      "degree": "G.C.E. Ordinary Level",
+      "specialization": "1A, 4B, 4C",
+      "institution": "Sri Lanka",
+      "details": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "GIS",
+      "skills": [
+        "ArcGIS Pro",
+        "ArcGIS Online",
+        "ArcGIS Experience Builder",
+        "QGIS",
+        "Spatial Analysis",
+        "Thematic Mapping",
+        "Digitizing",
+        "Land Information Systems"
+      ]
+    },
+    {
+      "title": "Surveying",
+      "skills": [
+        "Land & Boundary Surveying",
+        "Topographic & Engineering Surveying",
+        "Construction Setting-Out",
+        "Survey Control",
+        "GNSS/GPS",
+        "Total Station",
+        "Levelling",
+        "Hydrographic & Coastal Surveying"
+      ]
+    },
+    {
+      "title": "Survey instruments",
+      "skills": [
+        "GNSS/GPS Receivers",
+        "Total Stations",
+        "Sokkia Automatic Levels",
+        "Theodolites",
+        "DJI Mavic 3 Enterprise"
+      ]
+    },
+    {
+      "title": "Web GIS",
+      "skills": [
+        "Web Maps",
+        "Web Scenes",
+        "WMS/WFS Publishing",
+        "GeoServer",
+        "Leaflet",
+        "React",
+        "MapLibre",
+        "Measurement Tools"
+      ]
+    },
+    {
+      "title": "Database",
+      "skills": [
+        "PostgreSQL",
+        "PostGIS",
+        "pgAdmin",
+        "Spatial Database Preparation",
+        "Attribute Management",
+        "GIS Data QA",
+        "Layer Organization"
+      ]
+    },
+    {
+      "title": "Remote Sensing",
+      "skills": [
+        "Google Earth Engine",
+        "Sentinel-2",
+        "Pix4D Mapper",
+        "CloudCompare",
+        "Drone Platforms",
+        "GeoAI",
+        "Hazard Mapping",
+        "Disaster Resilience"
+      ]
+    },
+    {
+      "title": "Programming",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "NodeJS",
+        "MongoDB",
+        "R Geostatistics",
+        "VS Code"
+      ]
+    },
+    {
+      "title": "UAV & Photogrammetry",
+      "skills": [
+        "DJI Mavic 3 Enterprise",
+        "GCP Establishment",
+        "Pix4D Mapper",
+        "Orthomosaics",
+        "Point Clouds",
+        "DTM / DSM",
+        "CloudCompare"
+      ]
+    },
+    {
+      "title": "Workshop exposure",
+      "skills": [
+        "Drone LiDAR",
+        "Multispectral UAV",
+        "Terrestrial Laser Scanning",
+        "Ground Penetrating Radar"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "land-information-system",
+      "order": 2,
+      "title": "Land Information System / Interactive Web GIS Project",
+      "categoryLabel": "Web GIS / LIS",
+      "categories": [
+        "web-gis",
+        "gis"
+      ],
+      "highlight": "ArcGIS Online",
+      "shortDescription": "Prepared and managed LIS workflows using ArcGIS Pro, ArcGIS Online, Web Maps, Web Scenes, and Experience Builder.",
+      "fullDescription": "This project focused on preparing and organizing shapefiles, satellite imagery, drone imagery, and CAD data within a common GIS workflow. It included web-layer publishing, symbology configuration, attribute management, pop-up setup, and interactive map preparation for LIS visualization. Developed the Magudhu Island LIS and contribute to a second island LIS, integrating land-use, survey, CAD and drone datasets.",
+      "tools": [
+        "ArcGIS Pro",
+        "ArcGIS Online",
+        "Web Maps",
+        "Web Scenes",
+        "Experience Builder"
+      ],
+      "coverImage": "projects/land-information-system/cover.webp",
+      "coverAlt": "Land Information System / Interactive Web GIS Project — original project visual",
+      "images": [
+        {
+          "src": "projects/land-information-system/01.webp",
+          "alt": "LIS land use plan output",
+          "caption": "Land use plan prepared as part of the LIS workflow."
+        },
+        {
+          "src": "projects/land-information-system/02.webp",
+          "alt": "ArcGIS Pro land use mapping workspace",
+          "caption": "ArcGIS Pro layer organization and land-use mapping workspace."
+        },
+        {
+          "src": "projects/land-information-system/03.webp",
+          "alt": "Web map attribute popup",
+          "caption": "Web map attribute pop-up and parcel information view."
+        },
+        {
+          "src": "projects/land-information-system/04.webp",
+          "alt": "CAD-to-GIS land use editing workspace",
+          "caption": "CAD-to-GIS conversion and feature editing workflow."
+        },
+        {
+          "src": "projects/land-information-system/05.webp",
+          "alt": "LIS map viewer screenshot",
+          "caption": "Interactive map viewer prepared for LIS visualization."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Related LinkedIn Highlight",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Prepared and organized shapefiles, satellite imagery, drone imagery, and CAD data.",
+        "Configured layer symbology, labels, attribute tables, and pop-ups.",
+        "Supported web-layer publishing and interactive LIS map preparation."
+      ],
+      "role": "Prepared and managed LIS workflows using ArcGIS Pro, ArcGIS Online, Web Maps, Web Scenes, and Experience Builder.",
+      "deliverables": "Supported LIS implementation using ArcGIS-based workflows and interactive Web GIS views."
+    },
+    {
+      "slug": "open-source-lis-geoserver",
+      "order": 4,
+      "title": "Open-Source LIS & GeoServer Publishing",
+      "categoryLabel": "Web GIS / LIS",
+      "categories": [
+        "web-gis",
+        "gis"
+      ],
+      "highlight": "PostGIS",
+      "shortDescription": "Supported open-source LIS workflows using QGIS, PostgreSQL/PostGIS, GeoServer, and WMS/WFS services.",
+      "fullDescription": "This work maintained structured LIS outputs while shifting workflows from Esri platforms into an open-source GIS stack. It included QGIS project organization, PostgreSQL/PostGIS setup through pgAdmin, GeoServer publishing support, and basic WMS/WFS service preparation.",
+      "tools": [
+        "QGIS",
+        "PostgreSQL",
+        "PostGIS",
+        "GeoServer",
+        "WMS/WFS"
+      ],
+      "coverImage": "projects/open-source-lis-geoserver/cover.webp",
+      "coverAlt": "Open-Source LIS & GeoServer Publishing — original project visual",
+      "images": [
+        {
+          "src": "projects/open-source-lis-geoserver/01.webp",
+          "alt": "GIS attribute update workflow",
+          "caption": "GIS layer and attribute preparation for LIS workflows."
+        },
+        {
+          "src": "projects/open-source-lis-geoserver/02.webp",
+          "alt": "Open-source GIS map interface",
+          "caption": "Open-source GIS layer organization and publishing support."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Related LinkedIn Highlight",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Connected QGIS with PostgreSQL through pgAdmin and enabled PostGIS.",
+        "Imported prepared layers into a spatial database.",
+        "Prepared layers and created basic WMS/WFS services for required data."
+      ],
+      "role": "Supported open-source LIS workflows using QGIS, PostgreSQL/PostGIS, GeoServer, and WMS/WFS services.",
+      "deliverables": "Structured portal-ready datasets and supported GeoServer publication workflows for open-source LIS delivery."
+    },
+    {
+      "slug": "land-demarcation-gnss-field-support",
+      "order": 1,
+      "title": "Land Demarcation & GNSS Field Support",
+      "categoryLabel": "Surveying",
+      "categories": [
+        "surveying"
+      ],
+      "highlight": "Land Demarcation",
+      "shortDescription": "Assisted field work for land demarcation, GNSS observations, boundary reference checking, and survey documentation.",
+      "fullDescription": "This surveying work involved reviewing approved plans, carrying out site reconnaissance, checking demarcation areas, assisting GNSS-based field setup, maintaining field records, and supporting field completion reporting through photographs and drone imagery.",
+      "tools": [
+        "GNSS",
+        "Boundary Checking",
+        "Field Notes",
+        "Drone Imagery"
+      ],
+      "coverImage": "projects/land-demarcation-gnss-field-support/cover.webp",
+      "coverAlt": "Land Demarcation & GNSS Field Support — original project visual",
+      "images": [
+        {
+          "src": "projects/land-demarcation-gnss-field-support/01.webp",
+          "alt": "GNSS handheld field controller",
+          "caption": "GNSS handheld controller used for field support and demarcation checks."
+        },
+        {
+          "src": "projects/land-demarcation-gnss-field-support/02.webp",
+          "alt": "Drone view of demarcation field area",
+          "caption": "Drone view used to communicate field condition and site context."
+        },
+        {
+          "src": "projects/land-demarcation-gnss-field-support/03.webp",
+          "alt": "Aerial field documentation for land demarcation",
+          "caption": "Aerial documentation supporting land demarcation reporting."
+        },
+        {
+          "src": "projects/land-demarcation-gnss-field-support/04.webp",
+          "alt": "Coastal site field documentation",
+          "caption": "Field completion view captured for site documentation."
+        },
+        {
+          "src": "projects/land-demarcation-gnss-field-support/05.webp",
+          "alt": "GNSS observation near coastal area",
+          "caption": "GNSS-based field observation in coastal survey conditions."
+        },
+        {
+          "src": "projects/land-demarcation-gnss-field-support/06.webp",
+          "alt": "Surveying near sea wall",
+          "caption": "Survey field support and coastal site observation."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Land demarcation Maldives post",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Reviewed approved plans and checked demarcation areas before field implementation.",
+        "Assisted GNSS-based field setup, observations, and boundary reference checking.",
+        "Maintained field notes, daily progress records, and supporting documentation."
+      ],
+      "role": "Assisted field work for land demarcation, GNSS observations, boundary reference checking, and survey documentation.",
+      "deliverables": "Supported land demarcation work for residential, tourism, and agriculture zone field activities."
+    },
+    {
+      "slug": "survey-camp-karagasthalawa",
+      "order": 5,
+      "title": "Survey Camp | Karagasthalawa Maha Vidyalaya, Belihuloya",
+      "categoryLabel": "Surveying",
+      "categories": [
+        "surveying"
+      ],
+      "highlight": "GNSS",
+      "shortDescription": "Completed topographic and boundary survey tasks, established control points, and prepared site planning outputs.",
+      "fullDescription": "The university survey camp project included topographic survey, boundary survey, control point establishment using static GPS, field data collection, and preparation of site plans for future development planning.",
+      "tools": [
+        "Static GPS",
+        "Control Points",
+        "Topographic Survey",
+        "Boundary Survey"
+      ],
+      "coverImage": "projects/survey-camp-karagasthalawa/cover.webp",
+      "coverAlt": "Survey Camp | Karagasthalawa Maha Vidyalaya, Belihuloya — original project visual",
+      "images": [
+        {
+          "src": "projects/survey-camp-karagasthalawa/01.webp",
+          "alt": "Survey camp topographic contour plan",
+          "caption": "Topographic contour plan output from the university survey camp."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/02.webp",
+          "alt": "Survey camp detail survey plan",
+          "caption": "Detail survey plan prepared for the survey camp project."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/03.webp",
+          "alt": "Survey camp group photo",
+          "caption": "Survey camp team during the university field project."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/04.webp",
+          "alt": "GNSS observation during survey camp",
+          "caption": "GNSS observation and control support during fieldwork."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/05.webp",
+          "alt": "Survey camp proposed path design",
+          "caption": "Proposed design output prepared from survey camp data."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/06.webp",
+          "alt": "Survey camp detail plan output",
+          "caption": "Detail survey output prepared for project documentation."
+        },
+        {
+          "src": "projects/survey-camp-karagasthalawa/07.webp",
+          "alt": "Survey camp total station fieldwork",
+          "caption": "Total station fieldwork during the survey camp project."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Related LinkedIn Highlight",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Completed topographic and boundary surveys.",
+        "Established control points using static GPS.",
+        "Prepared site plans for future development."
+      ],
+      "role": "Completed topographic and boundary survey tasks, established control points, and prepared site planning outputs.",
+      "deliverables": "Prepared survey outputs to support future development planning at the project site."
+    },
+    {
+      "slug": "topographic-survey-control-establishment",
+      "order": 6,
+      "title": "Topographic Survey & Control Establishment",
+      "categoryLabel": "Surveying",
+      "categories": [
+        "surveying"
+      ],
+      "highlight": "Control Survey",
+      "shortDescription": "Participated in topographic survey and control establishment work for a water tank and sump project in Meesalai, Jaffna.",
+      "fullDescription": "This professional survey exposure involved establishing three primary control points and collecting field data to support contour plan preparation for water infrastructure survey work.",
+      "tools": [
+        "Control Points",
+        "Topographic Survey",
+        "Contour Plan",
+        "Field Data"
+      ],
+      "coverImage": "projects/topographic-survey-control-establishment/cover.webp",
+      "coverAlt": "Topographic Survey & Control Establishment — original project visual",
+      "images": [
+        {
+          "src": "projects/topographic-survey-control-establishment/01.webp",
+          "alt": "Water tower project site",
+          "caption": "Water infrastructure site connected to topographic survey work."
+        },
+        {
+          "src": "projects/topographic-survey-control-establishment/02.webp",
+          "alt": "Water tower survey view",
+          "caption": "Site view used for water infrastructure survey context."
+        },
+        {
+          "src": "projects/topographic-survey-control-establishment/03.webp",
+          "alt": "Survey control observation near water tower",
+          "caption": "Control and survey observation support near the water tower site."
+        },
+        {
+          "src": "projects/topographic-survey-control-establishment/04.webp",
+          "alt": "Water infrastructure interior site",
+          "caption": "Interior site documentation for water infrastructure survey support."
+        },
+        {
+          "src": "projects/topographic-survey-control-establishment/05.webp",
+          "alt": "Ground control point detail",
+          "caption": "Ground point detail captured for control and survey records."
+        },
+        {
+          "src": "projects/topographic-survey-control-establishment/06.webp",
+          "alt": "Survey ground mark",
+          "caption": "Survey ground mark and field control detail."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Water infrastructure control survey post",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Participated in a professional topographic survey for a water tank and sump project.",
+        "Established three primary control points.",
+        "Collected field data for contour plan preparation."
+      ],
+      "role": "Participated in topographic survey and control establishment work for a water tank and sump project in Meesalai, Jaffna.",
+      "deliverables": "Supported contour plan preparation for water infrastructure survey work."
+    },
+    {
+      "slug": "geoai-spatial-feature-detection-research",
+      "order": 7,
+      "title": "GeoAI Spatial Feature Detection Research",
+      "categoryLabel": "GeoAI / Research",
+      "categories": [
+        "research",
+        "remote-sensing"
+      ],
+      "highlight": "GeoAI",
+      "shortDescription": "Final-year research focused on GeoAI-based spatial feature detection using geotagged data and Sentinel-2 imagery.",
+      "fullDescription": "The final-year undergraduate research focused on GeoAI-based spatial feature detection using geotagged data and multi-temporal Sentinel-2 imagery. The completed model workflow used DeepLabV3+ and reported 73% accuracy in the final model results.",
+      "tools": [
+        "GeoAI",
+        "Sentinel-2",
+        "DeepLabV3+",
+        "Remote Sensing"
+      ],
+      "coverImage": "projects/geoai-spatial-feature-detection-research/cover.webp",
+      "coverAlt": "GeoAI Spatial Feature Detection Research — original project visual",
+      "images": [
+        {
+          "src": "projects/geoai-spatial-feature-detection-research/01.webp",
+          "alt": "GeoAI research study area map",
+          "caption": "Study area map for the GeoAI spatial feature detection research."
+        },
+        {
+          "src": "projects/geoai-spatial-feature-detection-research/02.webp",
+          "alt": "GeoAI research methodology diagram",
+          "caption": "Research workflow and methodology diagram."
+        },
+        {
+          "src": "projects/geoai-spatial-feature-detection-research/03.webp",
+          "alt": "GeoAI sample segmentation output",
+          "caption": "Sample segmentation outputs from the research workflow."
+        },
+        {
+          "src": "projects/geoai-spatial-feature-detection-research/04.webp",
+          "alt": "Predicted bushfire affected area output",
+          "caption": "Predicted affected-area output generated from the model workflow."
+        },
+        {
+          "src": "projects/geoai-spatial-feature-detection-research/05.webp",
+          "alt": "Geotagged tree point distribution map",
+          "caption": "Spatial distribution of geotagged reference points used in the study."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Final-year GeoAI bushfire research post",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Used geotagged data and multi-temporal Sentinel-2 imagery.",
+        "Applied DeepLabV3+ modelling.",
+        "Reported 73% accuracy in the completed final model results."
+      ],
+      "role": "Final-year research focused on GeoAI-based spatial feature detection using geotagged data and Sentinel-2 imagery.",
+      "deliverables": "Completed GeoAI-focused research work connected to spatial feature detection and disaster resilience direction.",
+      "results": "73% model accuracy reported in the detailed CV. No independent benchmark comparison is claimed."
+    },
+    {
+      "slug": "landslide-vulnerability-mapping",
+      "order": 8,
+      "title": "Landslide Vulnerability Mapping",
+      "categoryLabel": "GIS",
+      "categories": [
+        "gis",
+        "research"
+      ],
+      "highlight": "AHP",
+      "shortDescription": "Produced a landslide vulnerability map for Matale District using GIS-based spatial analysis and AHP.",
+      "fullDescription": "This GIS analysis project focused on landslide vulnerability mapping for Matale District using GIS-based spatial analysis and the Analytical Hierarchy Process (AHP) to support risk-aware spatial planning.",
+      "tools": [
+        "GIS Analysis",
+        "AHP",
+        "Hazard Mapping",
+        "Matale District"
+      ],
+      "coverImage": "projects/landslide-vulnerability-mapping/cover.webp",
+      "coverAlt": "Landslide Vulnerability Mapping — original project visual",
+      "images": [
+        {
+          "src": "projects/landslide-vulnerability-mapping/01.webp",
+          "alt": "AHP model creation diagram",
+          "caption": "AHP model structure used for landslide vulnerability mapping."
+        },
+        {
+          "src": "projects/landslide-vulnerability-mapping/02.webp",
+          "alt": "Land cover map of Matale District",
+          "caption": "Land cover factor map prepared for Matale District."
+        },
+        {
+          "src": "projects/landslide-vulnerability-mapping/03.webp",
+          "alt": "Rainfall map of Matale District",
+          "caption": "Rainfall factor map used in the vulnerability analysis."
+        },
+        {
+          "src": "projects/landslide-vulnerability-mapping/04.webp",
+          "alt": "Slope map of Matale District",
+          "caption": "Slope factor map used in the spatial analysis workflow."
+        },
+        {
+          "src": "projects/landslide-vulnerability-mapping/05.webp",
+          "alt": "AHP workflow diagram",
+          "caption": "AHP workflow for producing the final vulnerability map."
+        },
+        {
+          "src": "projects/landslide-vulnerability-mapping/06.webp",
+          "alt": "Aspect map of Matale District",
+          "caption": "Aspect factor map prepared as part of the GIS analysis."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Landslide vulnerability mapping post",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Produced a landslide vulnerability map for Matale District.",
+        "Used GIS-based spatial analysis and the Analytical Hierarchy Process.",
+        "Prepared vulnerability mapping output for risk-aware planning support."
+      ],
+      "role": "Produced a landslide vulnerability map for Matale District using GIS-based spatial analysis and AHP.",
+      "deliverables": "Created vulnerability mapping output to support risk-aware spatial planning."
+    },
+    {
+      "slug": "additional-gis-software-dashboard-work",
+      "order": 9,
+      "title": "Additional GIS Software & Dashboard Work",
+      "categoryLabel": "GIS",
+      "categories": [
+        "gis",
+        "web-gis"
+      ],
+      "highlight": "GIS Software",
+      "shortDescription": "Created interactive GIS communication and visualization outputs including StoryMap and dashboard-style work.",
+      "fullDescription": "Additional GIS work included creating an interactive StoryMap to visualize the impacts of the 2019-2020 Australian bushfires and developing a dynamic dashboard for real-time weather visualization and monitoring.",
+      "tools": [
+        "StoryMap",
+        "Dashboard",
+        "Weather Visualization",
+        "GIS Maps"
+      ],
+      "coverImage": "projects/additional-gis-software-dashboard-work/cover.webp",
+      "coverAlt": "Additional GIS Software & Dashboard Work — original project visual",
+      "images": [
+        {
+          "src": "projects/additional-gis-software-dashboard-work/01.webp",
+          "alt": "Survey image prepared for GIS visualization",
+          "caption": "Survey image prepared as part of GIS visualization and presentation work."
+        },
+        {
+          "src": "projects/additional-gis-software-dashboard-work/02.webp",
+          "alt": "Google Earth Pro map image",
+          "caption": "Google Earth Pro imagery used for spatial context and visualization."
+        },
+        {
+          "src": "projects/additional-gis-software-dashboard-work/03.webp",
+          "alt": "Before land reclamation map",
+          "caption": "Before land reclamation map view prepared for comparison."
+        },
+        {
+          "src": "projects/additional-gis-software-dashboard-work/04.webp",
+          "alt": "GIS attribute table",
+          "caption": "Attribute table review and GIS data organization."
+        },
+        {
+          "src": "projects/additional-gis-software-dashboard-work/05.webp",
+          "alt": "Land use plan output",
+          "caption": "Land use plan output prepared for GIS communication."
+        },
+        {
+          "src": "projects/additional-gis-software-dashboard-work/06.webp",
+          "alt": "GIS visualization on laptop",
+          "caption": "GIS visualization review and presentation workflow."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Python GIS extractor post",
+        "github": "",
+        "live": ""
+      },
+      "status": "Completed work",
+      "methodology": [
+        "Created an interactive StoryMap to visualize the impacts of the 2019-2020 Australian bushfires.",
+        "Developed a dynamic dashboard for real-time weather visualization and monitoring.",
+        "Built interactive GIS communication outputs and real-time visualization practice."
+      ],
+      "role": "Created interactive GIS communication and visualization outputs including StoryMap and dashboard-style work.",
+      "deliverables": "Built interactive GIS communication outputs and real-time visualization practice."
+    },
+    {
+      "slug": "advanced-surveying-technology-workshops",
+      "order": 3,
+      "title": "Advanced Surveying Technology Workshops",
+      "categoryLabel": "Technical Exposure",
+      "categories": [
+        "technical-exposure",
+        "remote-sensing",
+        "surveying",
+        "uav"
+      ],
+      "highlight": "Drone / TLS / GPR",
+      "shortDescription": "Gained technical exposure to drone LiDAR, multispectral drone workflows, TLS, and GPR.",
+      "fullDescription": "Advanced surveying technology workshop exposure strengthened awareness of modern field data capture methods, including drone LiDAR, multispectral drone workflows, Terrestrial Laser Scanning (TLS), and Ground Penetrating Radar (GPR).",
+      "tools": [
+        "Drone LiDAR",
+        "Multispectral Drone",
+        "TLS",
+        "GPR"
+      ],
+      "coverImage": "projects/advanced-surveying-technology-workshops/cover.webp",
+      "coverAlt": "Advanced Surveying Technology Workshops — original project visual",
+      "images": [
+        {
+          "src": "projects/advanced-surveying-technology-workshops/01.webp",
+          "alt": "Drone platform for surveying technology exposure",
+          "caption": "Drone platform used during advanced surveying technology exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/02.webp",
+          "alt": "Drone controller view",
+          "caption": "Drone controller and field operation exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/03.webp",
+          "alt": "GNSS equipment exposure",
+          "caption": "GNSS equipment exposure connected to modern field data capture."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/04.webp",
+          "alt": "Drone equipment case",
+          "caption": "Drone equipment preparation and field workflow exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/05.webp",
+          "alt": "Drone field handling",
+          "caption": "Drone field handling and technical training exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/06.webp",
+          "alt": "Terrestrial laser scanner setup",
+          "caption": "Terrestrial Laser Scanner setup during technical exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/07.webp",
+          "alt": "Ground penetrating radar output",
+          "caption": "Ground Penetrating Radar output reviewed during training exposure."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/08.webp",
+          "alt": "Technical workshop laptop workflow",
+          "caption": "Technical workshop workflow and data review."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/09.webp",
+          "alt": "Surveying technology equipment handling",
+          "caption": "Modern surveying technology equipment handling."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/10.webp",
+          "alt": "Workshop group reviewing equipment",
+          "caption": "Workshop group reviewing equipment and field workflow."
+        },
+        {
+          "src": "projects/advanced-surveying-technology-workshops/11.webp",
+          "alt": "Field scanning equipment setup",
+          "caption": "Field scanning equipment setup during technical exposure."
+        }
+      ],
+      "links": {
+        "linkedin": "",
+        "linkedinLabel": "Drone/TLS/GPR related posts",
+        "github": "",
+        "live": ""
+      },
+      "status": "Workshop exposure",
+      "methodology": [
+        "Gained exposure to drone LiDAR and multispectral workflows.",
+        "Gained workshop exposure to Terrestrial Laser Scanning and Ground Penetrating Radar.",
+        "Strengthened awareness of modern surveying technologies and field data capture methods."
+      ],
+      "role": "Gained technical exposure to drone LiDAR, multispectral drone workflows, TLS, and GPR.",
+      "deliverables": "Strengthened technical exposure to advanced surveying technologies and drone/remote sensing workflows."
+    },
+    {
+      "slug": "maldives-permanent-survey-marks",
+      "title": "Maldives Permanent Survey Marks",
+      "categories": [
+        "web-gis",
+        "gis"
+      ],
+      "categoryLabel": "Web GIS",
+      "shortDescription": "Developing a Web GIS database to make survey-control information accessible across Maldivian islands.",
+      "fullDescription": "Developing a Web GIS database to make survey-control information accessible across Maldivian islands.",
+      "role": "Developing a Web GIS database to make survey-control information accessible across Maldivian islands.",
+      "methodology": [
+        "Integrate coordinates, Easting, Northing, orthometric height and island information.",
+        "Connect official PSM PDF records with Map Viewer and Experience Builder."
+      ],
+      "tools": [
+        "ArcGIS Online",
+        "Map Viewer",
+        "Experience Builder"
+      ],
+      "deliverables": "Interactive survey-control database and linked PSM records.",
+      "status": "In development",
+      "images": [],
+      "coverImage": "",
+      "coverAlt": "",
+      "links": {}
+    },
+    {
+      "slug": "gulhi-coastal-analysis",
+      "title": "Drone-Based Coastal Analysis · Gulhi Island",
+      "categories": [
+        "uav",
+        "remote-sensing",
+        "gis"
+      ],
+      "categoryLabel": "UAV / Coastal",
+      "shortDescription": "Produced a UAV-derived coastal analysis map for Gulhi Island, South Male Atoll.",
+      "fullDescription": "Produced a UAV-derived coastal analysis map for Gulhi Island, South Male Atoll.",
+      "role": "Produced a UAV-derived coastal analysis map for Gulhi Island, South Male Atoll.",
+      "methodology": [
+        "Combine drone orthomosaic, terrain and elevation information with land-use context.",
+        "Apply spatial analysis to communicate coastal conditions."
+      ],
+      "tools": [
+        "UAV Photogrammetry",
+        "GIS",
+        "Terrain Analysis"
+      ],
+      "deliverables": "Coastal analysis map selected for the Esri India UC 2026 Map Gallery.",
+      "status": "Completed work",
+      "images": [],
+      "coverImage": "",
+      "coverAlt": "",
+      "links": {}
+    },
+    {
+      "slug": "reservoir-engineering-survey",
+      "title": "Engineering Survey for Reservoir Construction",
+      "categories": [
+        "surveying"
+      ],
+      "categoryLabel": "Surveying",
+      "shortDescription": "Academic field project supporting a proposed reservoir and access-road design.",
+      "fullDescription": "Academic field project supporting a proposed reservoir and access-road design.",
+      "role": "Academic field project supporting a proposed reservoir and access-road design.",
+      "methodology": [
+        "Conduct engineering and topographic survey tasks.",
+        "Use field observations to support access-road design."
+      ],
+      "tools": [
+        "Engineering Surveying",
+        "Topographic Surveying"
+      ],
+      "deliverables": "Survey data supporting proposed reservoir and access-road design.",
+      "status": "Completed work",
+      "images": [],
+      "coverImage": "",
+      "coverAlt": "",
+      "links": {}
+    },
+    {
+      "slug": "dem-geostatistical-analysis",
+      "title": "DEM Comparison & Geostatistical Analysis",
+      "categories": [
+        "gis",
+        "remote-sensing"
+      ],
+      "categoryLabel": "GIS",
+      "shortDescription": "Compared elevation models and completed geostatistical analysis exercises.",
+      "fullDescription": "Compared elevation models and completed geostatistical analysis exercises.",
+      "role": "Compared elevation models and completed geostatistical analysis exercises.",
+      "methodology": [
+        "Generate a DEM from digitized contours.",
+        "Compare with SRTM and ASTER data and perform geostatistical analysis in R."
+      ],
+      "tools": [
+        "DEM",
+        "SRTM",
+        "ASTER",
+        "R"
+      ],
+      "deliverables": "Comparative elevation models and geostatistical analysis exercises.",
+      "status": "Completed work",
+      "images": [],
+      "coverImage": "",
+      "coverAlt": "",
+      "links": {}
+    }
+  ],
+  "publications": [
+    {
+      "title": "A GeoAI Framework for Bushfire Impact Mapping Using Crowdsourced Social Media Data and Sentinel-2 Deep Learning Segmentation",
+      "venue": "IEEE InGARSS 2026",
+      "status": "Accepted for presentation",
+      "description": "Research combining crowdsourced geotagged data and multi-temporal Sentinel-2 imagery with DeepLabV3+ segmentation.",
+      "url": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Faculty of Geomatics Gold Medal",
+      "year": "2026",
+      "description": "Awarded for excellent overall performance at Sabaragamuwa University of Sri Lanka. Conferred on 9 July 2026."
+    },
+    {
+      "title": "Esri India UC 2026 Map Gallery",
+      "year": "2026",
+      "description": "Selected among the final shortlisted map creators for the conference Map Gallery. Coastal analysis work combining UAV and GIS outputs."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Sports Representation and Captaincy Confirmation - Physical Education Unit, Sabaragamuwa University of Sri Lanka",
+      "url": "certificates/sports-representation-captaincy-confirmation.pdf"
+    },
+    {
+      "name": "Tamil Cultural Society Membership and Leadership Confirmation - Sabaragamuwa University of Sri Lanka",
+      "url": "certificates/tamil-cultural-society-leadership-confirmation.pdf"
+    },
+    {
+      "name": "Spatial Data Science: The New Frontier in Analytics - MOOC",
+      "url": "certificates/spatial-data-science-certificate.pdf"
+    },
+    {
+      "name": "Creating an ArcGIS StoryMaps Briefing",
+      "url": "certificates/arcgis-storymaps-briefing-certificate.pdf"
+    },
+    {
+      "name": "Make an Impact with Modern Geo Apps - MOOC",
+      "url": "certificates/modern-geo-apps-certificate.pdf"
+    },
+    {
+      "name": "Introduction to Regression Analysis Using ArcGIS Pro",
+      "url": "certificates/introduction-to-regression-analysis-arcgis-pro-certificate.pdf"
+    },
+    {
+      "name": "Going Places with Spatial Analysis - MOOC",
+      "url": "certificates/going-places-with-spatial-analysis-certificate.pdf"
+    },
+    {
+      "name": "Building a Regression Model Using ArcGIS Pro",
+      "url": "certificates/building-regression-model-arcgis-pro-certificate.pdf"
+    },
+    {
+      "name": "GIS for Climate Action - MOOC",
+      "url": "certificates/gis-for-climate-action-certificate.pdf"
+    },
+    {
+      "name": "Python for Beginners",
+      "url": "certificates/python-for-beginners-certificate.pdf"
+    },
+    {
+      "name": "Cartography - MOOC",
+      "url": "certificates/cartography-certificate.pdf"
+    },
+    {
+      "name": "Foundations of Project Management",
+      "url": "certificates/foundations-of-project-management-certificate.pdf"
+    },
+    {
+      "name": "Telling Stories with GIS Maps",
+      "url": "certificates/telling-stories-with-gis-maps-certificate.pdf"
+    },
+    {
+      "name": "Full Stack Web Development - Uki Coding School",
+      "url": "certificates/uki-certificate.pdf"
+    },
+    {
+      "name": "Uki Coding School Transcript",
+      "url": "certificates/uki-transcript.pdf"
+    },
+    {
+      "name": "ARSET Certificate - SARs",
+      "url": "certificates/arset-certificate-sars-247.pdf"
+    },
+    {
+      "name": "ISPRS Student Consortium Membership",
+      "url": "certificates/isprs-membership.pdf"
+    },
+    {
+      "name": "University Detailed Degree Certificate",
+      "url": "certificates/abilakshan-detailed-degree-certificate.pdf",
+      "type": "Academic transcript"
+    },
+    {
+      "name": "Faculty of Geomatics Gold Medal Certificate",
+      "url": "certificates/abilakshan-faculty-gold-medal.pdf",
+      "type": "Award certificate"
+    },
+    {
+      "name": "G.C.E. Ordinary Level Results — 2015",
+      "url": "certificates/ordinary-level-results.pdf",
+      "type": "Examination results"
+    },
+    {
+      "name": "G.C.E. Advanced Level Results — 2019",
+      "url": "certificates/advanced-level-results.pdf",
+      "type": "Examination results"
+    }
+  ],
+  "memberships": [
+    "RICS — Student Member",
+    "ISPRS Student Consortium",
+    "Geo Mappers"
+  ],
+  "leadership": [
+    "Tamil Cultural Society active member (2022-2025), Programme Coordinator (2022), Media Coordinator (2023), Faculty of Geomatics Representative (2024)",
+    "University Badminton Team Member (2022-2025), Vice Captain (2025)",
+    "University Table Tennis Team Member (2022-2025), Runners-Up (2022)",
+    "School Badminton Team Captain (2017), Member (2012-2018)",
+    "School Volleyball Team Captain (2018), Member (2017-2018)",
+    "School Cricket Team Member (2011-2018)",
+    "School Prefect (2016-2018)",
+    "Best Cricket Team in Northern Province (2017)",
+    "All-Island School Cricket Under-13 Runners-Up (2013)"
+  ],
+  "documents": [
+    {
+      "name": "Riyan Internship Completion Letter",
+      "url": "downloads/riyan-internship-completion-letter.pdf",
+      "type": "Experience letter"
+    },
+    {
+      "name": "Management Assistant IT Experience Letter",
+      "url": "downloads/management-assistant-it-experience-letter.pdf",
+      "type": "Experience letter"
+    },
+    {
+      "name": "Riyan Employment Reference Letter",
+      "url": "downloads/riyan-employment-reference-letter.pdf",
+      "type": "Employment reference · August 2026"
+    },
+    {
+      "name": "Esri India UC 2026 Map Gallery Invitation",
+      "url": "downloads/esri-india-uc-2026-invitation.pdf",
+      "type": "Conference invitation / visa-support letter"
+    }
+  ],
+  "mapLocations": [
+    {
+      "id": "riyan-male-office",
+      "title": "Riyan Private Limited - Head Office",
+      "place": "Male, Maldives",
+      "kind": "Office",
+      "latitude": 4.174167,
+      "longitude": 73.509722,
+      "period": "Dec 2025 - Mar 2026; May 2026 - Present",
+      "description": "Head-office base for my planning internship and current Surveyor role at Riyan Private Limited.",
+      "projectSlugs": [],
+      "experienceIndexes": [
+        0,
+        1
+      ],
+      "photos": [],
+      "precision": "Approximate city location, not the office building.",
+      "coordinateSource": "https://www.atollsofmaldives.gov.mv/atolls/Male-Atholhu-%28Kaafu-Atoll%29/Male%27%28I%29%5BH%5D/760"
+    },
+    {
+      "id": "gulhi-coastal-analysis",
+      "title": "Drone-Based Coastal Analysis",
+      "place": "Gulhi Island, Maldives",
+      "kind": "Project",
+      "latitude": 3.990278,
+      "longitude": 73.508889,
+      "period": "",
+      "description": "UAV-derived coastal analysis combining orthomosaic, terrain and land-use information.",
+      "projectSlugs": [
+        "gulhi-coastal-analysis"
+      ],
+      "experienceIndexes": [],
+      "photos": [],
+      "precision": "Approximate island location, not a survey control point.",
+      "coordinateSource": "https://www.atollsofmaldives.gov.mv/atolls/Male-Atholhu-%28Kaafu-Atoll%29/Gulhi-%28I%29/338"
+    }
+  ]
+}

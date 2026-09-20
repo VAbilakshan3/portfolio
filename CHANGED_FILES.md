@@ -1,0 +1,121 @@
+# Changed files
+
+Local branch: `upgrade/portfolio-review`, based on main `07e3341`.
+
+`M` = modified, `D` = replaced/removed, `??` = newly added.
+
+- ` M` `.gitignore`
+- ` M` `README.md`
+- ` M` `UPDATE_GUIDE.md`
+- ` M` `content/profile-details.md`
+- ` M` `index.html`
+- ` M` `package-lock.json`
+- ` M` `package.json`
+- ` D` `public/cv/abilakshan-vadivel-cv.pdf`
+- ` M` `src/App.jsx`
+- ` D` `src/components/ProjectCard.jsx`
+- ` D` `src/components/SectionHeading.jsx`
+- ` D` `src/components/SkillGroup.jsx`
+- ` D` `src/data/certificatesData.js`
+- ` D` `src/data/experienceData.js`
+- ` D` `src/data/navigationData.js`
+- ` D` `src/data/profileData.js`
+- ` D` `src/data/projectsData.js`
+- ` M` `src/styles.css`
+- `??` `.editorconfig`
+- `??` `.gitattributes`
+- `??` `.github/workflows/check.yml`
+- `??` `CHANGED_FILES.md`
+- `??` `HOW_TO_UPDATE.md`
+- `??` `Open Portfolio Editor.cmd`
+- `??` `QUARTERLY_UPDATE_GUIDE.md`
+- `??` `TEST_RESULTS.md`
+- `??` `UPDATE_NOTES.md`
+- `??` `WEBSITE_OWNER_GUIDE.md`
+- `??` `public/certificates/abilakshan-detailed-degree-certificate.pdf`
+- `??` `public/certificates/abilakshan-faculty-gold-medal.pdf`
+- `??` `public/certificates/advanced-level-results.pdf`
+- `??` `public/certificates/ordinary-level-results.pdf`
+- `??` `public/cv/Abilakshan Vadivel.pdf`
+- `??` `public/downloads/esri-india-uc-2026-invitation.pdf`
+- `??` `public/downloads/riyan-employment-reference-letter.pdf`
+- `??` `public/images/favicon.svg`
+- `??` `public/images/profile-photo.webp`
+- `??` `public/images/social-preview.jpg`
+- `??` `public/projects/additional-gis-software-dashboard-work/01.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/02.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/03.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/04.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/05.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/06.webp`
+- `??` `public/projects/additional-gis-software-dashboard-work/cover.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/01.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/02.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/03.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/04.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/05.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/06.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/07.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/08.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/09.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/10.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/11.webp`
+- `??` `public/projects/advanced-surveying-technology-workshops/cover.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/01.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/02.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/03.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/04.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/05.webp`
+- `??` `public/projects/geoai-spatial-feature-detection-research/cover.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/01.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/02.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/03.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/04.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/05.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/06.webp`
+- `??` `public/projects/land-demarcation-gnss-field-support/cover.webp`
+- `??` `public/projects/land-information-system/01.webp`
+- `??` `public/projects/land-information-system/02.webp`
+- `??` `public/projects/land-information-system/03.webp`
+- `??` `public/projects/land-information-system/04.webp`
+- `??` `public/projects/land-information-system/05.webp`
+- `??` `public/projects/land-information-system/cover.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/01.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/02.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/03.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/04.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/05.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/06.webp`
+- `??` `public/projects/landslide-vulnerability-mapping/cover.webp`
+- `??` `public/projects/open-source-lis-geoserver/01.webp`
+- `??` `public/projects/open-source-lis-geoserver/02.webp`
+- `??` `public/projects/open-source-lis-geoserver/cover.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/01.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/02.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/03.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/04.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/05.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/06.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/07.webp`
+- `??` `public/projects/survey-camp-karagasthalawa/cover.webp`
+- `??` `public/projects/topographic-survey-control-establishment/01.webp`
+- `??` `public/projects/topographic-survey-control-establishment/02.webp`
+- `??` `public/projects/topographic-survey-control-establishment/03.webp`
+- `??` `public/projects/topographic-survey-control-establishment/04.webp`
+- `??` `public/projects/topographic-survey-control-establishment/05.webp`
+- `??` `public/projects/topographic-survey-control-establishment/06.webp`
+- `??` `public/projects/topographic-survey-control-establishment/cover.webp`
+- `??` `public/robots.txt`
+- `??` `public/sitemap.xml`
+- `??` `scripts/check-content.mjs`
+- `??` `scripts/validate-content.mjs`
+- `??` `src/components/WorkMap.jsx`
+- `??` `src/content/portfolio.json`
+- `??` `src/lib/assets.js`
+- `??` `tools/editor-server.mjs`
+- `??` `tools/editor/editor.css`
+- `??` `tools/editor/editor.js`
+- `??` `tools/editor/index.html`
+- `??` `tools/open-editor.ps1`
+
+- New: `CHANGED_FILES.md` (this inventory).

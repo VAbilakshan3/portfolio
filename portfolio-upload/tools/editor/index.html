@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Portfolio Content Editor</title>
+    <link rel="stylesheet" href="/vendor/leaflet.css" />
+    <link rel="stylesheet" href="/editor.css" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <p class="eyebrow">YOUR QUARTERLY WORKSPACE</p>
+        <h1>Portfolio editor</h1>
+        <p>Update content, upload photos and place your work on the map.</p>
+      </div>
+      <span class="local">Local changes only</span>
+    </header>
+    <div class="toolbar">
+      <button id="save" class="primary">Save changes</button
+      ><button id="build">Build preview</button
+      ><a href="http://127.0.0.1:4173/portfolio/" target="_blank" rel="noopener"
+        >Open portfolio ↗</a
+      ><button id="export">Export content backup</button
+      ><label class="import"
+        >Import backup<input id="import" type="file" accept=".json" /></label
+      ><span id="dirty">Loading...</span>
+    </div>
+    <p id="status" role="status" aria-live="polite">
+      Loading your saved portfolio...
+    </p>
+    <main>
+      <aside>
+        <label>What do you want to update?<select id="section"></select></label>
+        <div id="items"></div>
+        <button id="add">+ Add entry</button>
+        <p class="help">
+          Save changes writes to your local portfolio and creates a backup.
+          Build preview refreshes the local website. Publishing to GitHub
+          remains a separate review step.
+        </p>
+      </aside>
+      <section class="editor">
+        <div class="edit-heading">
+          <h2 id="heading">Content</h2>
+          <button id="remove" class="danger">Remove entry</button>
+        </div>
+        <div id="form"></div>
+      </section>
+    </main>
+    <dialog id="picker">
+      <div class="edit-heading">
+        <h2>Choose the work location</h2>
+        <button id="close-picker">Close</button>
+      </div>
+      <p>
+        Pan and zoom to the island, then click to place the point. Use an
+        approximate location if a precise site should not be public.
+      </p>
+      <div id="picker-map"></div>
+      <p id="picked"></p>
+      <button id="use-point" class="primary">Use this point</button>
+    </dialog>
+    <script src="/vendor/leaflet.js"></script>
+    <script type="module" src="/editor.js"></script>
+  </body>
+</html>
